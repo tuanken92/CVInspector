@@ -1,0 +1,1511 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#ifndef APSTUDIO_INVOKED
+#include "targetver.h"
+#endif
+#include "afxres.h"
+#include "verrsrc.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Korean (Korea) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#ifndef APSTUDIO_INVOKED\r\n"
+    "#include ""targetver.h""\r\n"
+    "#endif\r\n"
+    "#include ""afxres.h""\r\n"
+    "#include ""verrsrc.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)\r\n"
+    "LANGUAGE 18, 1\r\n"
+    "#include ""res\\CVInspector.rc2""  // Microsoft Visual C++ AI°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE?UAC °À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcIU°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcEcI °À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcIi°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcIi¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc¢ÆE°ÀcE°À¢ÁEc¢ÆE°ÀcE?u°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE?°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?u¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc¢ÆE°ÀcE°À¢ÁEc¢ÆE°ÀcE?I °À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcEciAyCN °À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?uO°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?o°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?IAO°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcII°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcIU.\r\n"
+    "#include ""l.KOR\\afxres.rc""      // C¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcEcIA°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc¢ÆE°ÀcE°À¢ÁEc¢ÆE°ÀcE?¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcI ¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc¢ÆE°ÀcE°À¢ÁEc¢ÆE°ÀcE?u°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?u°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I °À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE?a°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?uO\r\n"
+    "#if !defined(_AFXDLL)\r\n"
+    "#include ""l.KOR\\afxprint.rc""        // AI°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?ua ¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc¢ÆE°ÀcE°À¢ÁEc¢ÆE°ÀcE?IoI°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcEc °À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc¢ÆE°ÀcE°À¢ÁEc¢ÆE°ÀcE?ua °À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?uO°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?o°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I\r\n"
+    "#include ""l.KOR\\afxribbon.rc""        // MFC °À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcEci ¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc¢ÆE°ÀcE°À¢ÁEc¢ÆE°ÀcE?Io¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE? AA°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcIN °À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcI°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcIe °À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcE°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?uO°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?o°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEcE°À¢ÁE¢ÆEcEc°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEcE?°À¢ÁE¢ÆEcE¢ÆE°ÀcEcE¢ÆE°ÀcE°À¢ÁEcEc¢ÆE°ÀcE°À¢ÁEc°À¢ÁE¢ÆEc¢ÆE°Àc¢ÆE?I°À¢ÁE¢ÆEcE¢ÆE°ÀcEc°À¢ÁE¢ÆEc¢ÆE°Àc°À¢Á°À?I\r\n"
+    "#endif\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_CVInspectorTYPE     ICON                    "res\\CVInspectorDoc.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDR_MAINFRAME           BITMAP                  "res\\Toolbar.bmp"
+IDR_MAINFRAME_256       BITMAP                  "res\\Toolbar256.bmp"
+IDB_MAIN                BITMAP                  "res\\main.bmp"
+IDB_FILELARGE           BITMAP                  "res\\filelarge.bmp"
+IDB_FILESMALL           BITMAP                  "res\\filesmall.bmp"
+IDB_WRITELARGE          BITMAP                  "res\\writelarge.bmp"
+IDB_WRITESMALL          BITMAP                  "res\\writesmall.bmp"
+IDB_BUTTONS             BITMAP                  "res\\buttons.bmp"
+IDB_SIMPLEARITH         BITMAP                  "res\\simplearith.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_MAINFRAME TOOLBAR 16, 15
+BEGIN
+    BUTTON      ID_FILE_NEW
+    BUTTON      ID_FILE_OPEN
+    BUTTON      ID_FILE_SAVE
+    SEPARATOR
+    BUTTON      ID_EDIT_CUT
+    BUTTON      ID_EDIT_COPY
+    BUTTON      ID_EDIT_PASTE
+    SEPARATOR
+    BUTTON      ID_FILE_PRINT
+    BUTTON      ID_APP_ABOUT
+END
+
+IDR_MAINFRAME_256 TOOLBAR 16, 15
+BEGIN
+    BUTTON      ID_FILE_NEW
+    BUTTON      ID_FILE_OPEN
+    BUTTON      ID_FILE_SAVE
+    SEPARATOR
+    BUTTON      ID_EDIT_CUT
+    BUTTON      ID_EDIT_COPY
+    BUTTON      ID_EDIT_PASTE
+    SEPARATOR
+    BUTTON      ID_FILE_PRINT
+    BUTTON      ID_APP_ABOUT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU
+BEGIN
+    POPUP "File(&F)"
+    BEGIN
+        MENUITEM "New(&N)\tCtrl+N",             ID_FILE_NEW
+        MENUITEM "Open(&O)...\tCtrl+O",         ID_FILE_OPEN
+        MENUITEM "Save(&S)\tCtrl+S",            ID_FILE_SAVE
+        MENUITEM "Save As(&A)...",              ID_FILE_SAVE_AS
+        MENUITEM SEPARATOR
+        MENUITEM "MRU FILE",                    ID_FILE_MRU_FILE1, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "Exit(&X)",                    ID_APP_EXIT
+    END
+    POPUP "Edit(&E)"
+    BEGIN
+        MENUITEM "Undo(&U)\tCtrl+Z",            ID_EDIT_UNDO
+        MENUITEM SEPARATOR
+        MENUITEM "Cut(&T)\tCtrl+X",             ID_EDIT_CUT
+        MENUITEM "Copy(&C)\tCtrl+C",            ID_EDIT_COPY
+        MENUITEM "Paste(&P)\tCtrl+V",           ID_EDIT_PASTE
+    END
+    POPUP "View(&V)"
+    BEGIN
+        MENUITEM "Status Bar(&S)",              ID_VIEW_STATUS_BAR
+        POPUP "AppLook(&A)"
+        BEGIN
+            MENUITEM "Windows 2000(&2)",            ID_VIEW_APPLOOK_WIN_2000
+            MENUITEM "Office XP(&X)",               ID_VIEW_APPLOOK_OFF_XP
+            MENUITEM "Windows XP(&W)",              ID_VIEW_APPLOOK_WIN_XP
+            MENUITEM "Office 2003(&3)",             ID_VIEW_APPLOOK_OFF_2003
+            MENUITEM "Visual Studio 200&5",         ID_VIEW_APPLOOK_VS_2005
+            MENUITEM "Visual Studio 200&8",         ID_VIEW_APPLOOK_VS_2008
+            POPUP "Office 2007(&7)"
+            BEGIN
+                MENUITEM "∆ƒ∂˚ Ω∫≈∏¿œ(&B)",                  ID_VIEW_APPLOOK_OFF_2007_BLUE
+                MENUITEM "∞À¡§ Ω∫≈∏¿œ(&L)",                  ID_VIEW_APPLOOK_OFF_2007_BLACK
+                MENUITEM "¿∫ªˆ Ω∫≈∏¿œ(&S)",                  ID_VIEW_APPLOOK_OFF_2007_SILVER
+                MENUITEM "πŸ¥Ÿªˆ Ω∫≈∏¿œ(&A)",                 ID_VIEW_APPLOOK_OFF_2007_AQUA
+            END
+        END
+    END
+    POPUP "Help(&H)"
+    BEGIN
+        MENUITEM "CVInspector About(&A)...",    ID_APP_ABOUT
+    END
+END
+
+IDR_POPUP_EDIT MENU
+BEGIN
+    POPUP "Edit"
+    BEGIN
+        MENUITEM "Cut(&T)\tCtrl+X",             ID_EDIT_CUT
+        MENUITEM "Copy(&C)\tCtrl+C",            ID_EDIT_COPY
+        MENUITEM "Paste(&P)\tCtrl+V",           ID_EDIT_PASTE
+    END
+END
+
+IDR_WINDOWS_MENU MENU
+BEGIN
+    MENUITEM "New(&N)",                     ID_WINDOW_NEW
+END
+
+IDR_HELP_MENU MENU
+BEGIN
+    MENUITEM "CVInspector  About",          ID_APP_ABOUT
+END
+
+IDR_THEME_MENU MENU
+BEGIN
+    MENUITEM "Office 2007(BLUE)(&B)",       ID_VIEW_APPLOOK_OFF_2007_BLUE
+    MENUITEM "Office 2007(BLACK)(&L)",      ID_VIEW_APPLOOK_OFF_2007_BLACK
+    MENUITEM "Office 2007(SILVER)(&S)",     ID_VIEW_APPLOOK_OFF_2007_SILVER
+    MENUITEM "Office 2007(AQUA)(&A)",       ID_VIEW_APPLOOK_OFF_2007_AQUA
+    MENUITEM "Windows 7(&D)",               ID_VIEW_APPLOOK_WINDOWS_7
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS
+BEGIN
+    "N",            ID_FILE_NEW,            VIRTKEY, CONTROL
+    "O",            ID_FILE_OPEN,           VIRTKEY, CONTROL
+    "S",            ID_FILE_SAVE,           VIRTKEY, CONTROL
+    "Z",            ID_EDIT_UNDO,           VIRTKEY, CONTROL
+    "X",            ID_EDIT_CUT,            VIRTKEY, CONTROL
+    "C",            ID_EDIT_COPY,           VIRTKEY, CONTROL
+    "V",            ID_EDIT_PASTE,          VIRTKEY, CONTROL
+    VK_BACK,        ID_EDIT_UNDO,           VIRTKEY, ALT
+    VK_DELETE,      ID_EDIT_CUT,            VIRTKEY, SHIFT
+    VK_INSERT,      ID_EDIT_COPY,           VIRTKEY, CONTROL
+    VK_INSERT,      ID_EDIT_PASTE,          VIRTKEY, SHIFT
+    VK_F6,          ID_NEXT_PANE,           VIRTKEY 
+    VK_F6,          ID_PREV_PANE,           VIRTKEY, SHIFT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOGEX 0, 0, 170, 62
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "CVInspector"
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "»Æ¿Œ",IDOK,113,41,50,14,WS_GROUP
+    ICON            IDR_MAINFRAME,IDC_STATIC,14,14,20,20
+    LTEXT           "CVInspector, 1.0",IDC_STATIC,42,14,114,8,SS_NOPREFIX
+    LTEXT           "Copyright (C) 2015",IDC_STATIC,42,26,114,8
+END
+
+IDD_CVINSPECTOR_FORM DIALOGEX 0, 0, 420, 311
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD
+FONT 9, "MS Shell Dlg", 0, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_IMAGEPANEL,"Static",SS_BLACKFRAME | SS_NOTIFY,0,0,342,239
+    LISTBOX         IDC_OP_LIST,343,9,76,229,LBS_NOINTEGRALHEIGHT | WS_VSCROLL | WS_TABSTOP
+    LTEXT           "Operation History",IDC_STATIC,343,0,55,8
+    CONTROL         "",IDC_PARAMETER_PANEL,"Static",SS_BLACKFRAME,0,240,342,57
+    PUSHBUTTON      "Apply",IDC_BUTTON_APPLY,312,299,31,12
+    PUSHBUTTON      "SaveImg",IDC_BUTTON_SAVE_CURRENT_IMAGE,389,297,31,14
+    PUSHBUTTON      "Process All!",IDC_BUTTON_PROCESS_ALL,343,240,48,14
+    PUSHBUTTON      "Del",IDC_BUTTON_DELETE_SELECTED_OP,392,240,27,14
+    EDITTEXT        IDC_INPUT_IMG_NO,210,299,26,12,ES_AUTOHSCROLL
+    LTEXT           "Input Image No (if -1, previous op.'s result image will be used.) : ",IDC_STATIC,2,300,206,8
+END
+
+IDD_FORM_ARITHMETIC DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Simple Arithmatic",IDC_STATIC,2,1,61,8
+    EDITTEXT        IDC_EDIT_2ND_IMAGE,79,34,31,12,ES_AUTOHSCROLL
+    LTEXT           "2nd Image Index: ",IDC_STATIC,16,36,60,8
+    CONTROL         "Add",IDC_OPERATOR_TYPE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,17,18,29,10
+    CONTROL         "Sub (Src - 2nd)",IDC_OPERATOR_TYPE2,"Button",BS_AUTORADIOBUTTON,52,18,64,10
+    CONTROL         "Sub (2nd - Src)",IDC_OPERATOR_TYPE3,"Button",BS_AUTORADIOBUTTON,122,18,64,10
+    CONTROL         "And",IDC_OPERATOR_TYPE4,"Button",BS_AUTORADIOBUTTON,188,18,29,10
+    CONTROL         "Or",IDC_OPERATOR_TYPE5,"Button",BS_AUTORADIOBUTTON,225,18,24,10
+    CONTROL         "Xor",IDC_OPERATOR_TYPE6,"Button",BS_AUTORADIOBUTTON,257,18,27,10
+    CONTROL         "Inv",IDC_OPERATOR_TYPE7,"Button",BS_AUTORADIOBUTTON,297,18,27,10
+    CONTROL         "Abs Diff.",IDC_OPERATOR_TYPE8,"Button",BS_AUTORADIOBUTTON,336,18,44,10
+    CONTROL         "AddWeight",IDC_OPERATOR_TYPE9,"Button",BS_AUTORADIOBUTTON,336,35,51,10
+    EDITTEXT        IDC_EDIT_ALPHA,214,34,26,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_BETA,262,34,26,12,ES_AUTOHSCROLL
+    LTEXT           "Alpha",IDC_STATIC,194,35,19,8
+    LTEXT           "Beta",IDC_STATIC,243,35,16,8
+    EDITTEXT        IDC_EDIT_GAMA,307,34,26,12,ES_AUTOHSCROLL
+    LTEXT           "Gama",IDC_STATIC,290,35,17,8
+END
+
+IDD_FORM_NA DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Not Available",IDC_STATIC,2,4,43,8
+END
+
+IDD_FORM_OPENFILE DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "File Open",IDC_STATIC,0,0,37,8
+    LTEXT           "Path :",IDC_STATIC,5,18,23,8
+    EDITTEXT        IDC_FILE_PATH,29,16,334,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "...",IDC_SELECT_PATH,367,16,20,12
+    CONTROL         "Unchanged",IDC_RADIO_READTYPE,"Button",BS_AUTORADIOBUTTON | WS_GROUP,50,35,52,10
+    CONTROL         "Gray",IDC_RADIO_READTYPE2,"Button",BS_AUTORADIOBUTTON,111,35,31,10
+    CONTROL         "Color",IDC_RADIO_READTYPE3,"Button",BS_AUTORADIOBUTTON,155,35,33,10
+    LTEXT           "Read Type :",IDC_STATIC,6,35,40,8
+END
+
+IDD_FORM_CVTCOLOR DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Convert Color",IDC_STATIC,2,4,68,8
+    CONTROL         "BGR to Gray",IDC_RADIO_CVT_TYPE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,9,17,55,10
+    CONTROL         "Gray to BGR",IDC_RADIO_CVT_TYPE2,"Button",BS_AUTORADIOBUTTON,70,18,55,10
+    CONTROL         "BGR to HSV",IDC_RADIO_CVT_TYPE3,"Button",BS_AUTORADIOBUTTON,133,18,53,10
+END
+
+IDD_FORM_BINARIZE DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Binarize",IDC_STATIC,2,4,68,8
+    EDITTEXT        IDC_EDIT_BIN_THR,54,20,31,12,ES_AUTOHSCROLL
+    LTEXT           "Threshold :",IDC_STATIC,15,22,37,8
+    CONTROL         "Normal",IDC_RADIO_BIN_TYPE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,109,20,38,10
+    CONTROL         "Inv.",IDC_RADIO_BIN_TYPE2,"Button",BS_AUTORADIOBUTTON,152,20,29,10
+    CONTROL         "Trunc.",IDC_RADIO_BIN_TYPE3,"Button",BS_AUTORADIOBUTTON,187,20,37,10
+    CONTROL         "To Zero",IDC_RADIO_BIN_TYPE4,"Button",BS_AUTORADIOBUTTON,227,20,41,10
+    CONTROL         "To Zero Inv.",IDC_RADIO_BIN_TYPE5,"Button",BS_AUTORADIOBUTTON,273,20,56,10
+    CONTROL         "Use Otsu.",IDC_CHECK_OTSU,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,109,34,48,10
+END
+
+IDD_PARAMETER_DIALOG DIALOGEX 0, 0, 435, 104
+STYLE DS_SETFONT | DS_MODALFRAME | DS_FIXEDSYS | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Parameter Dialog"
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "Ok",IDOK,327,83,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,378,83,50,14
+    CONTROL         "",IDC_PARAMETER_PANEL,"Static",SS_BLACKFRAME,7,7,421,61
+    CONTROL         "Insert after current selected operation",IDC_CHECK_INSERT,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,7,87,140,10
+    LTEXT           "Input Image No (if -1, previous op.'s result image will be used.) : ",IDC_STATIC,7,73,209,8
+    EDITTEXT        IDC_INPUT_IMG_NO,218,72,23,12,ES_AUTOHSCROLL
+END
+
+IDD_FORM_MORPHOLOGY DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Morphology",IDC_STATIC,2,4,68,8
+    CONTROL         "Erode",IDC_MORPH_TYPE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,16,20,35,10
+    CONTROL         "Dilate",IDC_MORPH_TYPE2,"Button",BS_AUTORADIOBUTTON,52,20,34,10
+    CONTROL         "Open",IDC_MORPH_TYPE3,"Button",BS_AUTORADIOBUTTON,92,21,33,10
+    CONTROL         "Close",IDC_MORPH_TYPE4,"Button",BS_AUTORADIOBUTTON,132,20,33,10
+    CONTROL         "Gradient",IDC_MORPH_TYPE5,"Button",BS_AUTORADIOBUTTON,167,20,43,10
+    CONTROL         "TopHat",IDC_MORPH_TYPE6,"Button",BS_AUTORADIOBUTTON,213,20,39,10
+    CONTROL         "BlackHat",IDC_MORPH_TYPE7,"Button",BS_AUTORADIOBUTTON,252,20,43,10
+    EDITTEXT        IDC_EDIT_KERNEL_SIZE,53,34,21,12,ES_AUTOHSCROLL
+    LTEXT           "Kernel Size :",IDC_STATIC,10,35,40,8
+    EDITTEXT        IDC_EDIT_ANCHOR_X,150,34,27,12,ES_AUTOHSCROLL
+    LTEXT           "Anchor Pos :",IDC_STATIC,107,35,42,8
+    EDITTEXT        IDC_EDIT_ANCHOR_Y,178,34,27,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_ITERATION_NO,237,34,27,12,ES_AUTOHSCROLL
+    LTEXT           "Iter No :",IDC_STATIC,210,35,28,8
+    EDITTEXT        IDC_EDIT_KERNEL_SIZEY,79,34,21,12,ES_AUTOHSCROLL
+    COMBOBOX        IDC_COMBO_SHAPE_STRUCTUE,275,34,71,30,CBS_DROPDOWN | WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_FORM_BLUR DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Blur",IDC_STATIC,2,4,61,8
+    CONTROL         "Blur",IDC_BLUR_TYPE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,9,20,28,10
+    CONTROL         "Gaussian",IDC_BLUR_TYPE2,"Button",BS_AUTORADIOBUTTON,39,20,45,10
+    CONTROL         "Median",IDC_BLUR_TYPE3,"Button",BS_AUTORADIOBUTTON,85,21,39,10
+    CONTROL         "Box",IDC_BLUR_TYPE4,"Button",BS_AUTORADIOBUTTON,129,20,28,10
+    CONTROL         "Bilateral",IDC_BLUR_TYPE5,"Button",BS_AUTORADIOBUTTON,163,20,41,10
+    EDITTEXT        IDC_EDIT_GAUSSIAN_SIGMA,361,7,28,12,ES_AUTOHSCROLL
+    LTEXT           "Gaussian Sigma : ",IDC_STATIC,301,8,57,8
+    EDITTEXT        IDC_EDIT_BILATERAL_SIGMA_COLOR,361,20,28,12,ES_AUTOHSCROLL
+    LTEXT           "Bilateral Sigma Color : ",IDC_STATIC,286,22,72,8
+    EDITTEXT        IDC_EDIT_BILATERAL_SIGMA_SPACE,361,34,28,12,ES_AUTOHSCROLL
+    LTEXT           "Bilateral Sigma Space : ",IDC_STATIC,286,36,75,8
+    LTEXT           "Kernel Size :",IDC_STATIC,11,35,40,8
+    EDITTEXT        IDC_EDIT_ANCHOR_X,164,34,27,12,ES_AUTOHSCROLL
+    LTEXT           "Anchor Pos :",IDC_STATIC,121,35,42,8
+    EDITTEXT        IDC_EDIT_ANCHOR_Y,192,34,27,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_KERNEL_X,53,34,27,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_KERNEL_Y,83,34,27,12,ES_AUTOHSCROLL
+END
+
+IDD_FORM_RESIZE DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Resize",IDC_STATIC,0,0,61,8
+    EDITTEXT        IDC_EDIT_NEWSIZE_X,49,34,27,12,ES_AUTOHSCROLL
+    LTEXT           "New Size :",IDC_STATIC,11,35,34,8
+    EDITTEXT        IDC_EDIT_NEWSIZE_Y,77,34,27,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_NEWRATIO_X,154,34,27,12,ES_AUTOHSCROLL
+    LTEXT           "New Ratio :",IDC_STATIC,113,35,38,8
+    EDITTEXT        IDC_EDIT_NEWRATIO_Y,182,34,27,12,ES_AUTOHSCROLL
+    CONTROL         "Nearest",IDC_RESIZE_INTER_TYPE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,10,19,41,10
+    CONTROL         "Linear",IDC_RESIZE_INTER_TYPE2,"Button",BS_AUTORADIOBUTTON,49,19,35,10
+    CONTROL         "Area",IDC_RESIZE_INTER_TYPE3,"Button",BS_AUTORADIOBUTTON,89,19,31,10
+    CONTROL         "Cubic",IDC_RESIZE_INTER_TYPE4,"Button",BS_AUTORADIOBUTTON,129,19,33,10
+    CONTROL         "Lanczos4",IDC_RESIZE_INTER_TYPE5,"Button",BS_AUTORADIOBUTTON,173,19,45,10
+END
+
+IDD_FORM_EDGE DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Edge",IDC_STATIC,0,0,61,8
+    EDITTEXT        IDC_EDIT_KERNEL_SIZE,38,34,27,12,ES_AUTOHSCROLL
+    LTEXT           "Kernel :",IDC_STATIC,11,35,26,8
+    EDITTEXT        IDC_EDIT_SCALE,97,34,27,12,ES_AUTOHSCROLL
+    LTEXT           "Scale :",IDC_STATIC,72,35,22,8
+    EDITTEXT        IDC_EDIT_DELTA,155,34,27,12,ES_AUTOHSCROLL
+    LTEXT           "Delta :",IDC_STATIC,131,35,22,8
+    EDITTEXT        IDC_EDIT_DX,224,34,27,12,ES_AUTOHSCROLL
+    LTEXT           "X order :",IDC_STATIC,193,35,29,8
+    EDITTEXT        IDC_EDIT_DY,285,34,27,12,ES_AUTOHSCROLL
+    LTEXT           "Y order :",IDC_STATIC,255,35,29,8
+    CONTROL         "Laplacian",IDC_EDGE_TYPE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,10,21,45,10
+    CONTROL         "Sobel",IDC_EDGE_TYPE2,"Button",BS_AUTORADIOBUTTON,57,20,33,10
+    CONTROL         "Scharr",IDC_EDGE_TYPE3,"Button",BS_AUTORADIOBUTTON,105,20,37,10
+END
+
+IDD_FORM_CANNY DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Canny",IDC_STATIC,0,0,61,8
+    EDITTEXT        IDC_EDIT_THR1,56,18,27,12,ES_AUTOHSCROLL
+    LTEXT           "Threshold 1 :",IDC_STATIC,11,19,43,8
+    EDITTEXT        IDC_EDIT_THR2,136,18,27,12,ES_AUTOHSCROLL
+    LTEXT           "Threshold 2 :",IDC_STATIC,91,19,43,8
+    EDITTEXT        IDC_EDIT_APERTURE,227,18,27,12,ES_AUTOHSCROLL
+    LTEXT           "Aperture Size :",IDC_STATIC,177,19,49,8
+END
+
+IDD_FORM_CROP DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    EDITTEXT        IDC_EDIT_LEFT,34,15,38,14,ES_AUTOHSCROLL
+    CONTROL         "",IDC_SPIN_LEFT,"msctls_updown32",UDS_SETBUDDYINT | UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,60,16,11,12
+    EDITTEXT        IDC_EDIT_TOP,96,15,38,14,ES_AUTOHSCROLL
+    CONTROL         "",IDC_SPIN_TOP,"msctls_updown32",UDS_SETBUDDYINT | UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,122,16,11,12
+    EDITTEXT        IDC_EDIT_RIGHT,168,15,38,14,ES_AUTOHSCROLL
+    CONTROL         "",IDC_SPIN_RIGHT,"msctls_updown32",UDS_SETBUDDYINT | UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,194,16,11,12
+    EDITTEXT        IDC_EDIT_BOTTOM,244,15,38,14,ES_AUTOHSCROLL
+    CONTROL         "",IDC_SPIN_BOTTOM,"msctls_updown32",UDS_SETBUDDYINT | UDS_ALIGNRIGHT | UDS_AUTOBUDDY | UDS_ARROWKEYS,270,16,11,12
+    LTEXT           "Left :",IDC_STATIC,13,18,18,8
+    LTEXT           "Top :",IDC_STATIC,77,18,18,8
+    LTEXT           "Right :",IDC_STATIC,144,18,22,8
+    LTEXT           "Bottom :",IDC_STATIC,215,18,28,8
+    LTEXT           "Crop",IDC_STATIC,0,0,61,8
+    CONTROL         "Magnify crop area",IDC_MAGNIFY_CROPAREA,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,13,35,74,10
+    CONTROL         "",IDC_SPIN_MOVE_LR,"msctls_updown32",UDS_ARROWKEYS | UDS_HORZ,315,14,21,14
+    CONTROL         "",IDC_SPIN_MOVE_UD,"msctls_updown32",UDS_ARROWKEYS,341,13,16,18
+END
+
+IDD_FORM_SPLIT DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Split",-1,0,0,61,8
+    CONTROL         "Ch1",IDC_CHANNEL1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,15,19,29,10
+    CONTROL         "Ch2",IDC_CHANNEL2,"Button",BS_AUTORADIOBUTTON,59,19,29,10
+    CONTROL         "Ch3",IDC_CHANNEL3,"Button",BS_AUTORADIOBUTTON,104,19,29,10
+    CONTROL         "Ch4",IDC_CHANNEL4,"Button",BS_AUTORADIOBUTTON,147,19,29,10
+END
+
+IDD_FORM_CONTOUR DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Contour",IDC_STATIC,0,0,61,8
+    CONTROL         "External",IDC_MODE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,34,13,38,10
+    CONTROL         "List",IDC_MODE2,"Button",BS_AUTORADIOBUTTON,77,13,25,10
+    CONTROL         "Connected Comp.",IDC_MODE3,"Button",BS_AUTORADIOBUTTON,107,13,69,10
+    CONTROL         "Tree",IDC_MODE4,"Button",BS_AUTORADIOBUTTON,182,13,31,10
+    LTEXT           "Mode :",IDC_STATIC,9,13,23,8
+    LTEXT           "Method :",IDC_STATIC,2,25,30,8
+    CONTROL         "None",IDC_METHOD1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,34,25,33,10
+    CONTROL         "Simple",IDC_METHOD2,"Button",BS_AUTORADIOBUTTON,71,25,36,10
+    CONTROL         "TC89",IDC_METHOD3,"Button",BS_AUTORADIOBUTTON,113,25,33,10
+    CONTROL         "TC89_KCOS",IDC_METHOD4,"Button",BS_AUTORADIOBUTTON,156,25,55,10
+    EDITTEXT        IDC_EDIT_LINEWIDTH,270,11,29,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_LINETYPE,270,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Line Width :",IDC_STATIC,229,12,39,8
+    LTEXT           "Line Type :",IDC_STATIC,232,26,36,8
+    LTEXT           "(-1 for fill)",IDC_STATIC,301,13,33,8
+    LTEXT           "(4, 8, 16 only)",IDC_STATIC,301,26,47,8
+    EDITTEXT        IDC_EDIT_MAXVALUE,270,37,29,12,ES_AUTOHSCROLL
+    LTEXT           "Max Level :",IDC_STATIC,231,39,38,8
+    LTEXT           "(-1 for max value)",IDC_STATIC,301,39,59,8
+    EDITTEXT        IDC_EDIT_BGIMAGENO,34,38,29,12,ES_AUTOHSCROLL
+    LTEXT           "ResImg. :",IDC_STATIC,2,40,32,8
+    LTEXT           "(-1 blank image)",IDC_STATIC,68,40,52,8
+    CONTROL         "Use ConvexHull",IDC_CHECK_USE_CONVEXHULL,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,146,40,66,10
+END
+
+IDD_FORM_CAPTURECAM DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Capture from Camera",IDC_STATIC,0,0,109,8
+    EDITTEXT        IDC_EDIT_CAMERANO,48,20,24,12,ES_AUTOHSCROLL
+    LTEXT           "Camera No :",IDC_STATIC,5,22,41,8
+    EDITTEXT        IDC_EDIT_IMGWIDTH,125,20,24,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_IMGHEIGHT,152,20,24,12,ES_AUTOHSCROLL
+    LTEXT           "Image Size :",IDC_STATIC,83,22,40,8
+END
+
+IDD_FORM_FLOODFILL DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Floodfill",IDC_STATIC,0,0,61,8
+    EDITTEXT        IDC_EDIT_UPPERDIFF,55,17,27,12,ES_AUTOHSCROLL
+    LTEXT           "Upper Diff. :",IDC_STATIC,11,18,41,8
+    EDITTEXT        IDC_EDIT_LOWERDIFF,133,17,27,12,ES_AUTOHSCROLL
+    LTEXT           "Lower Diff. :",IDC_STATIC,89,18,41,8
+    EDITTEXT        IDC_EDIT_NEIGHBOR,223,17,27,12,ES_AUTOHSCROLL
+    LTEXT           "Neighbor(4or8) :",IDC_STATIC,168,18,54,8
+    CONTROL         "Use Fixed Range",IDC_CHECK_USE_FIXED_RANGE,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,266,18,70,10
+END
+
+IDD_FORM_PYRAMID DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Pyramid",IDC_STATIC,0,0,61,8
+    CONTROL         "Up",IDC_PYRTYPE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,15,16,25,10
+    CONTROL         "Down",IDC_PYRTYPE2,"Button",BS_AUTORADIOBUTTON,15,31,34,10
+    EDITTEXT        IDC_SIZEX,114,15,27,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_SIZEY,179,15,27,12,ES_AUTOHSCROLL
+    LTEXT           "Size X :",IDC_STATIC,85,17,24,8
+    LTEXT           "Size Y :",IDC_STATIC,150,17,24,8
+    LTEXT           "(If size is zero, the result image will be a half/double size of the original image.)",IDC_STATIC,85,30,253,8
+END
+
+IDD_FORM_BLOB DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Blob",IDC_STATIC,0,0,61,8
+    EDITTEXT        IDC_EDIT_THR_STEP,55,11,29,12,ES_AUTOHSCROLL
+    LTEXT           "Thr. Step :",IDC_STATIC,17,13,36,8
+    EDITTEXT        IDC_EDIT_MIN_THR,55,25,29,12,ES_AUTOHSCROLL
+    LTEXT           "Min.Thr. :",IDC_STATIC,20,27,32,8
+    EDITTEXT        IDC_EDIT_MAX_THR,55,39,29,12,ES_AUTOHSCROLL
+    LTEXT           "Max. Thr. :",IDC_STATIC,16,41,37,8
+    EDITTEXT        IDC_EDIT_MIN_REPEATABILITY,127,11,29,12,ES_AUTOHSCROLL
+    LTEXT           "Min. Rep. :",IDC_STATIC,90,13,36,8
+    EDITTEXT        IDC_EDIT_MIN_DIST,127,25,29,12,ES_AUTOHSCROLL
+    LTEXT           "Min. Dist. :",IDC_STATIC,90,27,36,8
+    CONTROL         "Color Filter",IDC_FILTER_BY_COLOR,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,162,13,51,10
+    EDITTEXT        IDC_EDIT_MIN_REPEATABILITY2,187,25,29,12,ES_AUTOHSCROLL
+    LTEXT           "Color :",IDC_STATIC,163,27,22,8
+    CONTROL         "Area Filter",IDC_FILTER_BY_AREA,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,221,13,49,10
+    EDITTEXT        IDC_EDIT_MIN_AREA,242,25,29,12,ES_AUTOHSCROLL
+    LTEXT           "Min :",IDC_STATIC,224,27,16,8
+    EDITTEXT        IDC_EDIT_MAX_AREA,242,39,29,12,ES_AUTOHSCROLL
+    LTEXT           "Max :",IDC_STATIC,221,41,19,8
+    CONTROL         "Cir. Filter",IDC_FILTER_BY_CIRCULARITY,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,277,13,45,10
+    EDITTEXT        IDC_EDIT_MIN_CIRCULARITY,298,26,29,12,ES_AUTOHSCROLL
+    LTEXT           "Min :",IDC_STATIC,280,27,16,8
+    EDITTEXT        IDC_EDIT_MAX_CIRCULARITY,298,39,29,12,ES_AUTOHSCROLL
+    LTEXT           "Max :",IDC_STATIC,278,41,19,8
+    CONTROL         "Inertia. Filter",IDC_FILTER_BY_CIRCULARITY2,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,330,12,58,10
+    EDITTEXT        IDC_EDIT_MIN_INERTIA,354,25,29,12,ES_AUTOHSCROLL
+    LTEXT           "Min :",IDC_STATIC,336,26,16,8
+    EDITTEXT        IDC_EDIT_MAX_INERTIA,354,38,29,12,ES_AUTOHSCROLL
+    LTEXT           "Max :",IDC_STATIC,334,40,19,8
+END
+
+IDD_FORM_HISTOGRAM DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Histogram",IDC_STATIC,0,0,61,8
+    EDITTEXT        IDC_EDIT_HIST_SIZE,42,17,27,12,ES_AUTOHSCROLL
+    LTEXT           "Bin Size :",IDC_STATIC,11,18,30,8
+    EDITTEXT        IDC_EDIT_HIST_RANGE_L,119,17,27,12,ES_AUTOHSCROLL
+    LTEXT           "Range :",IDC_STATIC,89,18,26,8
+    EDITTEXT        IDC_EDIT_HIST_RANGE_H,163,17,27,12,ES_AUTOHSCROLL
+    LTEXT           "~",IDC_STATIC,152,18,8,8
+END
+
+IDD_FORM_EQUALHIST DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Equalize Histogram",-1,0,0,61,8
+    LTEXT           "This function does not need any parameter.",-1,11,18,142,8
+END
+
+IDD_FORM_HOUGHLINE DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Hough Line",IDC_STATIC,0,0,61,8
+    EDITTEXT        IDC_EDIT_RHO,33,17,29,12,ES_AUTOHSCROLL
+    LTEXT           "Rho :",IDC_STATIC,13,19,18,8
+    EDITTEXT        IDC_EDIT_THETA,93,17,29,12,ES_AUTOHSCROLL
+    LTEXT           "Theta :",IDC_STATIC,68,19,24,8
+    EDITTEXT        IDC_EDIT_THRESHOLD,166,17,29,12,ES_AUTOHSCROLL
+    LTEXT           "Min. Vote :",IDC_STATIC,129,19,36,8
+    EDITTEXT        IDC_EDIT_MIN_LINE_LENGTH,260,17,29,12,ES_AUTOHSCROLL
+    LTEXT           "Min. Line Length :",IDC_STATIC,201,19,58,8
+    EDITTEXT        IDC_EDIT_MAX_LINE_GAP,347,17,29,12,ES_AUTOHSCROLL
+    LTEXT           "Max. Line Gap :",IDC_STATIC,295,19,51,8
+    EDITTEXT        IDC_EDIT_BGIMAGENO,111,38,29,12,ES_AUTOHSCROLL
+    LTEXT           "Result BG Image No. :",IDC_STATIC,35,40,72,8
+    LTEXT           "(-1 for blank image)",IDC_STATIC,145,40,64,8
+END
+
+IDD_FORM_HOUGHCIRCLE DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Hough Circle",IDC_STATIC,0,0,61,8
+    EDITTEXT        IDC_EDIT_ACCU_RES,144,9,29,12,ES_AUTOHSCROLL
+    LTEXT           "Inv. Ratio of accumulator resolution :",IDC_STATIC,22,11,120,8
+    EDITTEXT        IDC_EDIT_MIN_DIST,241,9,29,12,ES_AUTOHSCROLL
+    LTEXT           "Min. Dist :",IDC_STATIC,207,11,33,8
+    EDITTEXT        IDC_EDIT_PARAMETER1,68,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Parameter 1 :",IDC_STATIC,21,26,45,8
+    EDITTEXT        IDC_EDIT_PARAMETER2,155,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Parameter 2 :",IDC_STATIC,108,25,45,8
+    EDITTEXT        IDC_EDIT_MIN_RADIUS,241,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Min. Radius :",IDC_STATIC,196,25,42,8
+    EDITTEXT        IDC_EDIT_MAX_RADIUS,332,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Max. Radius :",IDC_STATIC,285,25,45,8
+    EDITTEXT        IDC_EDIT_BGIMAGENO2,111,38,29,12,ES_AUTOHSCROLL
+    LTEXT           "Result BG Image No. :",IDC_STATIC,35,40,72,8
+    LTEXT           "(-1 for blank image)",IDC_STATIC,145,40,64,8
+END
+
+IDD_FORM_HARRISCORNER DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Harris Corner",IDC_STATIC,0,0,61,8
+    EDITTEXT        IDC_EDIT_NEIGHBOR,58,9,29,12,ES_AUTOHSCROLL
+    LTEXT           "Neighbor :",IDC_STATIC,21,11,34,8
+    EDITTEXT        IDC_EDIT_APERTURE,58,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Aperture :",IDC_STATIC,21,25,34,8
+    EDITTEXT        IDC_EDIT_PARAMETERK,143,8,29,12,ES_AUTOHSCROLL
+    LTEXT           "K :",IDC_STATIC,131,9,10,8
+    EDITTEXT        IDC_EDIT_NONMAXSIZE,143,23,29,12,ES_AUTOHSCROLL
+    LTEXT           "Non Max Size :",IDC_STATIC,93,24,48,8
+    EDITTEXT        IDC_EDIT_MARKERSIZE,294,23,29,12,ES_AUTOHSCROLL
+    LTEXT           "Marker Size :",IDC_STATIC,250,24,42,8
+    EDITTEXT        IDC_EDIT_MARKERCOLOR_R,294,8,29,12,ES_AUTOHSCROLL
+    LTEXT           "Marker Color :",IDC_STATIC,246,9,46,8
+    EDITTEXT        IDC_EDIT_MARKERCOLOR_G,325,8,29,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_MARKERCOLOR_B,356,8,29,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_BGIMAGENO,111,38,29,12,ES_AUTOHSCROLL
+    LTEXT           "Result BG Image No. :",IDC_STATIC,35,40,72,8
+    LTEXT           "(-1 for prev. image)",IDC_STATIC,145,40,64,8
+END
+
+IDD_FORM_DFT DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "DFT",-1,0,0,61,8
+    CONTROL         "Show 8-bit scaled image",IDC_SHOW_SCALEDIMG,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,3,41,93,10
+    CONTROL         "Inverse Transform",IDC_INV,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,3,20,75,10
+END
+
+IDD_FORM_MATCHTEMPLATE DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Match Template",IDC_STATIC,0,0,52,8
+    CONTROL         "SQDIFF",IDC_MATCHTEMPLATE_TYPE,"Button",BS_AUTORADIOBUTTON | WS_GROUP,19,22,41,10
+    CONTROL         "SQDIFF_NORMED",IDC_MATCHTEMPLATE_TYPE2,"Button",BS_AUTORADIOBUTTON,59,22,73,10
+    CONTROL         "CCORR",IDC_MATCHTEMPLATE_TYPE3,"Button",BS_AUTORADIOBUTTON,134,22,40,10
+    CONTROL         "CCORR_NORMED",IDC_MATCHTEMPLATE_TYPE4,"Button",BS_AUTORADIOBUTTON,173,22,73,10
+    CONTROL         "CCOEFF",IDC_MATCHTEMPLATE_TYPE5,"Button",BS_AUTORADIOBUTTON,247,22,43,10
+    CONTROL         "CCOEFF_NORMED",IDC_MATCHTEMPLATE_TYPE6,"Button",BS_AUTORADIOBUTTON,292,22,75,10
+    LTEXT           "Template Image No. :",IDC_STATIC,21,38,70,8
+    EDITTEXT        IDC_EDIT_TEMPLATE_IMG_NO,95,36,21,12,ES_AUTOHSCROLL
+    CONTROL         "Show Matched Result",IDC_SHOW_MATCHED_RESULT,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,181,38,85,10
+END
+
+IDD_FORM_PSM DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Pattern Shift Method",IDC_STATIC,0,0,99,8
+    EDITTEXT        IDC_EDIT_OFFSET_X,46,34,27,12,ES_AUTOHSCROLL
+    LTEXT           "X Offset :",IDC_STATIC,11,35,32,8
+    EDITTEXT        IDC_EDIT_OFFSET_Y,123,34,27,12,ES_AUTOHSCROLL
+    CONTROL         "Subtract",IDC_PSM_SUBTRACT_TYPE,"Button",BS_AUTORADIOBUTTON | WS_GROUP,10,19,43,10
+    CONTROL         "Abs. Diff.",IDC_PSM_SUBTRACT_TYPE2,"Button",BS_AUTORADIOBUTTON,58,19,47,10
+    CONTROL         "Xor",IDC_PSM_SUBTRACT_TYPE3,"Button",BS_AUTORADIOBUTTON,109,19,27,10
+    LTEXT           "Y Offset :",IDC_STATIC,88,35,32,8
+    CONTROL         "Left/Right",IDC_PSM_DIR,"Button",BS_AUTORADIOBUTTON | WS_GROUP,187,19,48,10
+    CONTROL         "Up/Down",IDC_PSM_DIR2,"Button",BS_AUTORADIOBUTTON,235,19,45,10
+    CONTROL         "Both",IDC_PSM_DIR3,"Button",BS_AUTORADIOBUTTON,287,19,31,10
+END
+
+IDD_FORM_ADAPTIVETHR DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Adaptive Threshold",IDC_STATIC,2,4,68,8
+    EDITTEXT        IDC_EDIT_CONSTANT,54,20,31,12,ES_AUTOHSCROLL
+    LTEXT           "Threshold :",IDC_STATIC,15,22,37,8
+    CONTROL         "Normal",IDC_RADIO_BIN_TYPE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,110,20,38,10
+    CONTROL         "Inv.",IDC_RADIO_BIN_TYPE2,"Button",BS_AUTORADIOBUTTON,153,20,29,10
+    CONTROL         "ADAPTIVE_THRESH_MEAN_C",IDC_RADIO_ADAPTIVE_METHOD,
+                    "Button",BS_AUTORADIOBUTTON | WS_GROUP,110,37,114,10
+    CONTROL         "ADAPTIVE_THRESH_GAUSSIAN_C ",IDC_RADIO_ADAPTIVE_METHOD2,
+                    "Button",BS_AUTORADIOBUTTON,227,37,127,10
+    EDITTEXT        IDC_EDIT_BLOCKSIZE,54,36,31,12,ES_AUTOHSCROLL
+    LTEXT           "Block Size :",IDC_STATIC,15,38,36,8
+END
+
+IDD_FORM_REMOVEBLOBS DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Remove Blobs",IDC_STATIC,0,0,99,8
+    EDITTEXT        IDC_EDIT_MIN_AREA,54,12,27,12,ES_AUTOHSCROLL
+    LTEXT           "Min. Area :",IDC_STATIC,15,13,36,8
+    EDITTEXT        IDC_EDIT_MAX_AREA,132,12,27,12,ES_AUTOHSCROLL
+    LTEXT           "Max. Area :",IDC_STATIC,92,13,39,8
+    EDITTEXT        IDC_EDIT_MIN_WIDTH,54,28,27,12,ES_AUTOHSCROLL
+    LTEXT           "Min. Width :",IDC_STATIC,12,29,40,8
+    EDITTEXT        IDC_EDIT_MIN_HEIGHT,132,28,27,12,ES_AUTOHSCROLL
+    LTEXT           "Min. Height :",IDC_STATIC,89,29,42,8
+    EDITTEXT        IDC_EDIT_MAX_WIDTH,219,28,27,12,ES_AUTOHSCROLL
+    LTEXT           "Max. Width :",IDC_STATIC,176,29,42,8
+    EDITTEXT        IDC_EDIT_MAX_HEIGHT,299,28,27,12,ES_AUTOHSCROLL
+    LTEXT           "Max. Height :",IDC_STATIC,254,29,44,8
+    LTEXT           "(If -1, the constraint will be ignored.)",IDC_STATIC,16,43,120,8
+END
+
+IDD_FORM_TIMEDELAY DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Time Delay",IDC_STATIC,0,0,37,8
+    LTEXT           "Time :",IDC_STATIC,13,24,23,8
+    EDITTEXT        IDC_DELAY_TIME,37,22,29,12,ES_AUTOHSCROLL
+    LTEXT           "ms",IDC_STATIC,70,24,23,8
+END
+
+IDD_FORM_FLIP DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Flip Image",-1,0,0,37,8
+    LTEXT           "Flip Axis",-1,13,24,32,8
+    CONTROL         "X Axis (0)",IDC_RADIO_FLIP_AXIS,"Button",BS_AUTORADIOBUTTON | WS_GROUP,54,24,42,10
+    CONTROL         "Y Axis (1)",IDC_RADIO_FLIP_AXIS2,"Button",BS_AUTORADIOBUTTON,102,24,41,10
+    CONTROL         "Both (-1)",IDC_RADIO_FLIP_AXIS3,"Button",BS_AUTORADIOBUTTON,150,24,45,10
+    CONTROL         "Transpose(j,i)",IDC_RADIO_FLIP_AXIS4,"Button",BS_AUTORADIOBUTTON,197,24,61,10
+END
+
+IDD_FORM_SHITOMASICORNER DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Shi-Tomasi Corner",IDC_STATIC,0,0,61,8
+    EDITTEXT        IDC_EDIT_MAXCORNER,58,11,29,12,ES_AUTOHSCROLL
+    LTEXT           "Max. Corner :",IDC_STATIC,10,12,46,8
+    EDITTEXT        IDC_EDIT_QUALITYLEVEL,58,25,29,12,ES_AUTOHSCROLL
+    LTEXT           "Quality Level :",IDC_STATIC,8,26,47,8
+    EDITTEXT        IDC_EDIT_MINDIST,143,10,29,12,ES_AUTOHSCROLL
+    LTEXT           "Min. Dist :",IDC_STATIC,109,11,33,8
+    EDITTEXT        IDC_EDIT_BLOCKSIZE,143,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Block Size :",IDC_STATIC,106,25,36,8
+    EDITTEXT        IDC_EDIT_MARKERSIZE,294,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Marker Size :",IDC_STATIC,250,25,42,8
+    EDITTEXT        IDC_EDIT_MARKERCOLOR_R,294,10,29,12,ES_AUTOHSCROLL
+    LTEXT           "Marker Color :",IDC_STATIC,246,11,46,8
+    EDITTEXT        IDC_EDIT_MARKERCOLOR_G,325,10,29,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_MARKERCOLOR_B,356,10,29,12,ES_AUTOHSCROLL
+    CONTROL         "Use Harris",IDC_CHECK_USEHARRIS,"Button",BS_AUTOCHECKBOX | WS_TABSTOP,180,26,49,10
+    EDITTEXT        IDC_EDIT_BGIMAGENO,111,38,29,12,ES_AUTOHSCROLL
+    LTEXT           "Result BG Image No. :",IDC_STATIC,35,40,72,8
+    LTEXT           "(-1 for prev. image)",IDC_STATIC,145,40,64,8
+END
+
+IDD_FORM_ROTATE DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Rotate Image",IDC_STATIC,0,0,37,8
+    LTEXT           "Angle :",IDC_STATIC,13,21,32,8
+    EDITTEXT        IDC_EDIT_ANGLE,39,20,25,12,ES_AUTOHSCROLL
+    LTEXT           "(Positive angle : CCW)",IDC_STATIC,70,22,73,8
+    LTEXT           "* Size of transformed image is same as size of source image, so some part of the image can be removed.",IDC_STATIC,12,38,336,8
+END
+
+IDD_FORM_FILTER2D DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Filter2D",IDC_STATIC,0,0,68,8
+    EDITTEXT        IDC_EDIT_ANCHOR_X,57,14,27,12,ES_AUTOHSCROLL
+    LTEXT           "Anchor Pos :",IDC_STATIC,14,15,42,8
+    EDITTEXT        IDC_EDIT_ANCHOR_Y,85,14,27,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_DELTA,142,14,27,12,ES_AUTOHSCROLL
+    LTEXT           "Delta :",IDC_STATIC,119,15,22,8
+    EDITTEXT        IDC_EDIT_KERNEL,281,9,105,40,ES_MULTILINE | ES_AUTOVSCROLL | ES_AUTOHSCROLL
+    LTEXT           "Kernel :",IDC_STATIC,251,11,26,8
+END
+
+IDD_FORM_OFFSETTEMPLATE DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Mearure Template Offset",IDC_STATIC,0,0,82,8
+    CONTROL         "SQDIFF",IDC_MATCHTEMPLATE_TYPE,"Button",BS_AUTORADIOBUTTON | WS_GROUP,21,12,41,10
+    CONTROL         "SQDIFF_NORMED",IDC_MATCHTEMPLATE_TYPE2,"Button",BS_AUTORADIOBUTTON,61,12,73,10
+    CONTROL         "CCORR",IDC_MATCHTEMPLATE_TYPE3,"Button",BS_AUTORADIOBUTTON,136,12,40,10
+    CONTROL         "CCORR_NORMED",IDC_MATCHTEMPLATE_TYPE4,"Button",BS_AUTORADIOBUTTON,175,12,73,10
+    CONTROL         "CCOEFF",IDC_MATCHTEMPLATE_TYPE5,"Button",BS_AUTORADIOBUTTON,249,12,43,10
+    CONTROL         "CCOEFF_NORMED",IDC_MATCHTEMPLATE_TYPE6,"Button",BS_AUTORADIOBUTTON,294,12,75,10
+    LTEXT           "Scale X :",IDC_STATIC,22,27,28,8
+    EDITTEXT        IDC_EDIT_SCALEX,51,25,21,12,ES_AUTOHSCROLL
+    LTEXT           "Scale Y :",IDC_STATIC,78,27,28,8
+    EDITTEXT        IDC_EDIT_SCALEY,107,25,21,12,ES_AUTOHSCROLL
+    LTEXT           "Offset X :",IDC_STATIC,138,27,32,8
+    EDITTEXT        IDC_EDIT_OFFSETX,172,25,21,12,ES_AUTOHSCROLL
+    LTEXT           "Offset Y :",IDC_STATIC,197,27,32,8
+    EDITTEXT        IDC_EDIT_OFFSETY,230,25,21,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_TEMPLATE_PATH,75,40,227,13,ES_AUTOHSCROLL | ES_READONLY
+    LTEXT           "Template Path :",IDC_STATIC,21,42,52,8
+    LTEXT           "Matching Thr. :",IDC_STATIC,278,27,50,8
+    EDITTEXT        IDC_EDIT_OFFSETY2,329,25,21,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Set ROI",IDC_SET_ROI,311,39,79,15
+END
+
+IDD_FORM_FAST DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "FAST",-1,0,0,61,8
+    EDITTEXT        IDC_EDIT_THRESHOLD,49,11,29,12,ES_AUTOHSCROLL
+    LTEXT           "Threshold :",-1,10,12,37,8
+    EDITTEXT        IDC_EDIT_TYPE,133,11,29,12,ES_AUTOHSCROLL
+    LTEXT           "Type : ",-1,109,12,24,8
+    EDITTEXT        IDC_EDIT_MARKERSIZE,294,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Marker Size :",-1,250,25,42,8
+    EDITTEXT        IDC_EDIT_MARKERCOLOR_R,294,10,29,12,ES_AUTOHSCROLL
+    LTEXT           "Marker Color :",-1,246,11,46,8
+    EDITTEXT        IDC_EDIT_MARKERCOLOR_G,325,10,29,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_MARKERCOLOR_B,356,10,29,12,ES_AUTOHSCROLL
+    CONTROL         "non Maxima Supression",IDC_CHECK_NONMAXIMASUPRESSION,
+                    "Button",BS_AUTOCHECKBOX | WS_TABSTOP,10,26,91,10
+    EDITTEXT        IDC_EDIT_BGIMAGENO,111,38,29,12,ES_AUTOHSCROLL
+    LTEXT           "Result BG Image No. :",-1,35,40,72,8
+    LTEXT           "(-1 for prev. image)",-1,145,40,64,8
+END
+
+IDD_FORM_MARKED_AVG DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Marked Average",IDC_STATIC,0,0,54,8
+    LTEXT           "Mark Image No:",IDC_STATIC,21,38,52,8
+    EDITTEXT        IDC_EDIT_MARK_IMG_NO,75,36,21,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_KERNEL_X,49,15,21,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT_KERNEL_Y,123,15,21,12,ES_AUTOHSCROLL
+    LTEXT           "Kernel X:",IDC_STATIC,20,18,30,8
+    LTEXT           "Kernel Y:",IDC_STATIC,94,18,30,8
+END
+
+IDD_FORM_MARKED_ADAP_THRESHOLD DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Marked Adaptive Threshold",IDC_STATIC,0,0,88,8
+    CONTROL         "Diff",IDC_MARKED_ADAP_THR_TYPE,"Button",BS_AUTORADIOBUTTON | WS_GROUP,249,17,27,10
+    CONTROL         "Bright",IDC_MARKED_ADAP_THR_TYPE2,"Button",BS_AUTORADIOBUTTON,290,17,35,10
+    CONTROL         "Dark",IDC_MARKED_ADAP_THR_TYPE3,"Button",BS_AUTORADIOBUTTON,338,17,31,10
+    LTEXT           "Mark Image No:",IDC_STATIC,9,37,52,8
+    EDITTEXT        IDC_EDIT_TEMPLATE_IMG_NO,67,35,21,12,ES_AUTOHSCROLL
+    LTEXT           "BlockSizeX:",IDC_STATIC,10,19,36,8
+    EDITTEXT        IDC_EDIT_BLOCKSIZE_X,49,17,21,12,ES_AUTOHSCROLL
+    LTEXT           "BlockSizeY:",IDC_STATIC,77,19,36,8
+    EDITTEXT        IDC_EDIT_BLOCKSIZE_Y,116,17,21,12,ES_AUTOHSCROLL
+    LTEXT           "C Value:",IDC_STATIC,152,19,28,8
+    EDITTEXT        IDC_EDIT_C_VALUE,183,17,21,12,ES_AUTOHSCROLL
+END
+
+IDD_FORM_JPTHRESHOLD DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "JPThreshold",IDC_STATIC,2,4,68,8
+    EDITTEXT        IDC_EDIT_BIN_THR_UPPER,132,19,31,12,ES_AUTOHSCROLL
+    LTEXT           "Thr.Upper:",IDC_STATIC,93,20,36,8
+    CONTROL         "Normal",IDC_RADIO_JPTHR_TYPE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,185,19,38,10
+    CONTROL         "Inv.",IDC_RADIO_JPTHR_TYPE2,"Button",BS_AUTORADIOBUTTON,225,19,29,10
+    CONTROL         "To Zero",IDC_RADIO_JPTHR_TYPE3,"Button",BS_AUTORADIOBUTTON,256,19,41,10
+    CONTROL         "To Zero Inv.",IDC_RADIO_JPTHR_TYPE4,"Button",BS_AUTORADIOBUTTON,299,19,56,10
+    EDITTEXT        IDC_EDIT_BIN_THR_LOWER,56,19,31,12,ES_AUTOHSCROLL
+    LTEXT           "Thr.Lower:",IDC_STATIC,17,20,36,8
+END
+
+IDD_FORM_DIFFIMAGE DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Diff Image",IDC_STATIC,0,0,34,8
+    CONTROL         "DiffImgX",IDC_DIFFIMG_X,"Button",BS_AUTORADIOBUTTON | WS_GROUP,16,24,43,10
+    CONTROL         "DiffImgY",IDC_DIFFIMG_Y,"Button",BS_AUTORADIOBUTTON,66,24,43,10
+    LTEXT           "Alpha:",IDC_STATIC,147,31,22,8
+    EDITTEXT        IDC_EDIT_ALPHA,169,29,21,12,ES_AUTOHSCROLL
+    LTEXT           "Beta:",IDC_STATIC,198,31,18,8
+    EDITTEXT        IDC_EDIT_BETA,219,29,21,12,ES_AUTOHSCROLL
+    LTEXT           "MinThr.:",IDC_STATIC,252,31,28,8
+    EDITTEXT        IDC_EDIT_MIN_THR,281,29,21,12,ES_AUTOHSCROLL
+    LTEXT           "Accum:",IDC_STATIC,312,31,24,8
+    EDITTEXT        IDC_EDIT_ACCUM,337,29,21,12,ES_AUTOHSCROLL
+    CONTROL         "ATOB",IDC_DIFFIMG_TYPE,"Button",BS_AUTORADIOBUTTON | WS_GROUP,146,10,34,10
+    CONTROL         "BTOA",IDC_DIFFIMG_TYPE1,"Button",BS_AUTORADIOBUTTON,196,10,34,10
+    CONTROL         "ABS",IDC_DIFFIMG_TYPE2,"Button",BS_AUTORADIOBUTTON,245,10,29,10
+END
+
+IDD_FORM_JPTHRESHOLD_AUTO DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "JPThresholdAuto",-1,2,4,68,8
+    EDITTEXT        IDC_EDIT_STDDEV,152,19,31,12,ES_AUTOHSCROLL
+    LTEXT           "Stddev:",-1,124,20,26,8
+    CONTROL         "X",IDC_RADIO_JPTHRAUTO_DIR,"Button",BS_AUTORADIOBUTTON | WS_GROUP,27,21,20,10
+    CONTROL         "Y",IDC_RADIO_JPTHRAUTO_DIR2,"Button",BS_AUTORADIOBUTTON,59,21,20,10
+END
+
+IDD_FORM_DRAW_LINE DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Line",IDC_STATIC,0,0,37,8
+    LTEXT           "StartX:",IDC_STATIC,28,10,23,8
+    EDITTEXT        IDC_DRAW_START_X,52,9,29,12,ES_AUTOHSCROLL
+    LTEXT           "StartY:",IDC_STATIC,28,25,23,8
+    EDITTEXT        IDC_DRAW_START_Y,52,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "EndX:",IDC_STATIC,90,11,23,8
+    EDITTEXT        IDC_DRAW_END_X,110,9,29,12,ES_AUTOHSCROLL
+    LTEXT           "EndY:",IDC_STATIC,90,26,23,8
+    EDITTEXT        IDC_DRAW_END_Y,110,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Line Width:",IDC_STATIC,145,11,36,8
+    EDITTEXT        IDC_DRAW_LINE_WIDTH,185,9,29,12,ES_AUTOHSCROLL
+    LTEXT           "Color:",IDC_STATIC,162,27,23,8
+    EDITTEXT        IDC_DRAW_LINE_COLOR_B,185,26,29,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_DRAW_LINE_COLOR_G,216,26,29,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_DRAW_LINE_COLOR_R,248,26,29,12,ES_AUTOHSCROLL
+END
+
+IDD_FORM_ADAPTIVETHR_ISH DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Adaptive Threshold ISH",IDC_STATIC,2,4,82,8
+    EDITTEXT        IDC_EDIT_THRESHOLD,63,24,31,12,ES_AUTOHSCROLL
+    LTEXT           "Threshold :",IDC_STATIC,24,25,37,8
+    EDITTEXT        IDC_EDIT_BLOCKSIZE,151,24,31,12,ES_AUTOHSCROLL
+    LTEXT           "Block Size :",IDC_STATIC,112,25,36,8
+    EDITTEXT        IDC_EDIT_OFFSET,230,24,31,12,ES_AUTOHSCROLL
+    LTEXT           "Offset:",IDC_STATIC,204,25,24,8
+    EDITTEXT        IDC_EDIT_SCALE,302,24,31,12,ES_AUTOHSCROLL
+    LTEXT           "Scale:",IDC_STATIC,280,25,20,8
+END
+
+IDD_FORM_MAPPING_IMG DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Mapping Image",IDC_STATIC,2,4,68,8
+    CONTROL         "X",IDC_RADIO_MAPINGIMG_TYPE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,11,23,20,10
+    CONTROL         "Y",IDC_RADIO_MAPINGIMG_TYPE2,"Button",BS_AUTORADIOBUTTON,34,23,20,10
+    EDITTEXT        IDC_EDIT_MAP_DIST,177,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Dist",IDC_STATIC,163,25,13,8
+    EDITTEXT        IDC_EDIT_MAP_THR,234,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Thr",IDC_STATIC,219,25,12,8
+    EDITTEXT        IDC_EDIT_MAP_ALPHA,293,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Alpha",IDC_STATIC,272,25,19,8
+    EDITTEXT        IDC_EDIT_MAP_BETA,344,24,29,12,ES_AUTOHSCROLL
+    LTEXT           "Beta",IDC_STATIC,327,25,16,8
+    COMBOBOX        IDC_COMBO_LIGHT,102,22,50,30,CBS_DROPDOWN | CBS_SORT | CBS_UPPERCASE | WS_VSCROLL | WS_TABSTOP
+END
+
+IDD_FORM_DISTANCE DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Distance",-1,2,4,61,8
+    CONTROL         "CV_DIST_L1",IDC_DISTANCE_TYPE1,"Button",BS_AUTORADIOBUTTON | WS_GROUP,20,20,55,10
+    CONTROL         "CV_DIST_L2",IDC_DISTANCE_TYPE2,"Button",BS_AUTORADIOBUTTON,74,20,55,10
+    CONTROL         "CV_DIST_C",IDC_DISTANCE_TYPE3,"Button",BS_AUTORADIOBUTTON,130,20,55,10
+    LTEXT           "MarkSize:",-1,199,20,32,8
+    EDITTEXT        IDC_EDIT_MARKSIZE,235,19,27,12,ES_AUTOHSCROLL
+END
+
+IDD_FORM_CONTRAST DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Contrast",IDC_STATIC,0,0,99,8
+    EDITTEXT        IDC_EDIT_ALPHA,35,27,27,12,ES_AUTOHSCROLL
+    LTEXT           "Alpha:",IDC_STATIC,10,28,22,8
+    EDITTEXT        IDC_EDIT_BETA,112,27,27,12,ES_AUTOHSCROLL
+    LTEXT           "Beta:",IDC_STATIC,90,28,18,8
+END
+
+IDD_FORM_WATERSHED DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Watershed",IDC_STATIC,2,3,36,8
+    EDITTEXT        IDC_MASK_IMGNO,94,18,40,14,ES_AUTOHSCROLL
+    LTEXT           "ImgMaskNo:",IDC_STATIC,49,19,40,8
+    LTEXT           "(Mask image should be a single channel binary image).",IDC_STATIC,140,20,174,8
+END
+
+IDD_FORM_FARSHIDTHR DIALOGEX 0, 0, 390, 54
+STYLE DS_SETFONT | DS_FIXEDSYS | WS_CHILD | WS_SYSMENU
+FONT 8, "MS Shell Dlg", 400, 0, 0x1
+BEGIN
+    LTEXT           "Farshid Thr.",IDC_STATIC,0,0,61,8
+    LTEXT           "Parameter()",IDC_STATIC,19,23,40,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x40004L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "041204b0"
+        BEGIN
+            VALUE "CompanyName", "TODO: <OpenCV>"
+            VALUE "FileDescription", "CVInspector"
+            VALUE "FileVersion", "1.0.0.1"
+            VALUE "InternalName", "CVInspector.exe"
+            VALUE "LegalCopyright", "TODO: (c) <CV>.  All rights reserved."
+            VALUE "OriginalFilename", "CVInspector.exe"
+            VALUE "ProductName", "TODO: <CVVision>"
+            VALUE "ProductVersion", "1.0.0.1"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x412, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 163
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 55
+    END
+
+    IDD_CVINSPECTOR_FORM, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_ARITHMETIC, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_NA, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_OPENFILE, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_CVTCOLOR, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_BINARIZE, DIALOG
+    BEGIN
+    END
+
+    IDD_PARAMETER_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 428
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 97
+    END
+
+    IDD_FORM_MORPHOLOGY, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_BLUR, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_RESIZE, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_EDGE, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_CANNY, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_CROP, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_SPLIT, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_CONTOUR, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_CAPTURECAM, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_FLOODFILL, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_PYRAMID, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_BLOB, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_HISTOGRAM, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_EQUALHIST, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_HOUGHLINE, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_HOUGHCIRCLE, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_HARRISCORNER, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_DFT, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_MATCHTEMPLATE, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_PSM, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_ADAPTIVETHR, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_REMOVEBLOBS, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_TIMEDELAY, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_FLIP, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_SHITOMASICORNER, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_ROTATE, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_FILTER2D, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_OFFSETTEMPLATE, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_FAST, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_MARKED_AVG, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_MARKED_ADAP_THRESHOLD, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_JPTHRESHOLD, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_DIFFIMAGE, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_JPTHRESHOLD_AUTO, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_DRAW_LINE, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_ADAPTIVETHR_ISH, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_MAPPING_IMG, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_DISTANCE, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_CONTRAST, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_WATERSHED, DIALOG
+    BEGIN
+    END
+
+    IDD_FORM_FARSHIDTHR, DIALOG
+    BEGIN
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Ribbon
+//
+
+IDR_RIBBON              RT_RIBBON_XML           "res\\ribbon.mfcribbon-ms"
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_FORM_MAPPING_IMG DLGINIT
+BEGIN
+    IDC_COMBO_LIGHT, 0x403, 7, 0
+0x5242, 0x4749, 0x5448, "\000" 
+    IDC_COMBO_LIGHT, 0x403, 5, 0
+0x4144, 0x4b52, "\000" 
+    0
+END
+
+IDD_FORM_MORPHOLOGY DLGINIT
+BEGIN
+    IDC_COMBO_SHAPE_STRUCTUE, 0x403, 11, 0
+0x4f4d, 0x5052, 0x5f48, 0x4552, 0x5443, "\000" 
+    IDC_COMBO_SHAPE_STRUCTUE, 0x403, 12, 0
+0x4f4d, 0x5052, 0x5f48, 0x5243, 0x534f, 0x0053, 
+    IDC_COMBO_SHAPE_STRUCTUE, 0x403, 14, 0
+0x4f4d, 0x5052, 0x5f48, 0x4c45, 0x494c, 0x5350, 0x0045, 
+    0
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE
+BEGIN
+    IDP_OLE_INIT_FAILED     "OLE∏¶ √ ±‚»≠«“ ºˆ æ¯Ω¿¥œ¥Ÿ.  OLE ∂Û¿Ã∫Í∑Ø∏Æ πˆ¿¸¿Ã ø√πŸ∏•¡ˆ »Æ¿Œ«œΩ Ω√ø¿."
+END
+
+STRINGTABLE
+BEGIN
+    IDR_MAINFRAME           "CVInspector\n\nCVInspector\n\n\nCVInspector.Document\nCVInspector.Document"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_APP_TITLE       "CVInspector"
+    AFX_IDS_IDLEMESSAGE     "¡ÿ∫Ò"
+END
+
+STRINGTABLE
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE
+BEGIN
+    ID_FILE_NEW             "ªı πÆº≠∏¶ ∏∏µÏ¥œ¥Ÿ.\nªı∑Œ ∏∏µÈ±‚"
+    ID_FILE_OPEN            "±‚¡∏ πÆº≠∏¶ ø±¥œ¥Ÿ.\nø≠±‚"
+    ID_FILE_CLOSE           "»∞º∫ πÆº≠∏¶ ¥›Ω¿¥œ¥Ÿ.\n¥›±‚"
+    ID_FILE_SAVE            "»∞º∫ πÆº≠∏¶ ¿˙¿Â«’¥œ¥Ÿ.\n¿˙¿Â"
+    ID_FILE_SAVE_AS         "»∞º∫ πÆº≠∏¶ ªı ¿Ã∏ß¿∏∑Œ ¿˙¿Â«’¥œ¥Ÿ.\n¥Ÿ∏• ¿Ã∏ß¿∏∑Œ ¿˙¿Â"
+END
+
+STRINGTABLE
+BEGIN
+    ID_APP_ABOUT            "«¡∑Œ±◊∑• ¡§∫∏, πˆ¿¸ π¯»£ π◊ ¿˙¿€±«¿ª «•Ω√«’¥œ¥Ÿ.\n¡§∫∏"
+    ID_APP_EXIT             "πÆº≠∏¶ ¿˙¿Â«“¡ˆ∏¶ πØ∞Ì ¿¿øÎ «¡∑Œ±◊∑•¿ª ≥°≥¿¥œ¥Ÿ.\n≥°≥ª±‚"
+END
+
+STRINGTABLE
+BEGIN
+    ID_FILE_MRU_FILE1       "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE2       "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE3       "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE4       "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE5       "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE6       "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE7       "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE8       "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE9       "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE10      "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE11      "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE12      "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE13      "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE14      "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE15      "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+    ID_FILE_MRU_FILE16      "«ˆ¿Á πÆº≠∏¶ ø±¥œ¥Ÿ."
+END
+
+STRINGTABLE
+BEGIN
+    ID_NEXT_PANE            "¥Ÿ¿Ω √¢¿∏∑Œ ¿¸»Ø«’¥œ¥Ÿ.\n¥Ÿ¿Ω √¢"
+    ID_PREV_PANE            "¿Ã¿¸ √¢¿∏∑Œ ¿¸»Ø«’¥œ¥Ÿ.\n¿Ã¿¸ √¢"
+END
+
+STRINGTABLE
+BEGIN
+    ID_WINDOW_SPLIT         "»∞º∫ √¢¿ª ø©∑Ø ∞≥¿« √¢¿∏∑Œ ∫–«“«’¥œ¥Ÿ.\n∫–«“"
+END
+
+STRINGTABLE
+BEGIN
+    ID_EDIT_CLEAR           "º±≈√ øµø™¿ª ¡ˆøÛ¥œ¥Ÿ.\n¡ˆøÏ±‚"
+    ID_EDIT_CLEAR_ALL       "∏µŒ ¡ˆøÛ¥œ¥Ÿ.\n∏µŒ ¡ˆøÏ±‚"
+    ID_EDIT_COPY            "º±≈√ øµø™¿ª ∫πªÁ«œø© ≈¨∏≥∫∏µÂø° ≥÷Ω¿¥œ¥Ÿ.\n∫πªÁ"
+    ID_EDIT_CUT             "º±≈√ øµø™¿ª ¿ﬂ∂Û≥ªæÓ ≈¨∏≥∫∏µÂø° ≥÷Ω¿¥œ¥Ÿ.\n¿ﬂ∂Û≥ª±‚"
+    ID_EDIT_FIND            "¡ˆ¡§«— ≈ÿΩ∫∆Æ∏¶ √£Ω¿¥œ¥Ÿ.\n√£±‚"
+    ID_EDIT_PASTE           "≈¨∏≥∫∏µÂ ≥ªøÎ¿ª ª¿‘«’¥œ¥Ÿ.\n∫Ÿø©≥÷±‚"
+    ID_EDIT_REPEAT          "∏∂¡ˆ∏∑ ¿€æ˜¿ª π›∫π«’¥œ¥Ÿ.\nπ›∫π"
+    ID_EDIT_REPLACE         "∆Ø¡§ ≈ÿΩ∫∆Æ∏¶ ¥Ÿ∏• ≈ÿΩ∫∆Æ∑Œ πŸ≤ﬂ¥œ¥Ÿ.\nπŸ≤Ÿ±‚"
+    ID_EDIT_SELECT_ALL      "¿¸√º πÆº≠∏¶ º±≈√«’¥œ¥Ÿ.\n∏µŒ º±≈√"
+    ID_EDIT_UNDO            "∏∂¡ˆ∏∑ ¿€æ˜ Ω««‡¿ª √Îº“«’¥œ¥Ÿ.\nΩ««‡ √Îº“"
+    ID_EDIT_REDO            "¿Ã¿¸ø° Ω««‡ √Îº“µ» ¿€æ˜¿ª ¥ŸΩ√ Ω««‡«’¥œ¥Ÿ.\n¥ŸΩ√ Ω««‡"
+END
+
+STRINGTABLE
+BEGIN
+    ID_VIEW_TOOLBAR         "µµ±∏ ∏¿Ω¿ª «•Ω√«œ∞≈≥™ º˚±È¥œ¥Ÿ.\nµµ±∏ ∏¿Ω º≥¡§/«ÿ¡¶"
+    ID_VIEW_STATUS_BAR      "ªÛ≈¬ «•Ω√¡Ÿ¿ª «•Ω√«œ∞≈≥™ º˚±È¥œ¥Ÿ.\nªÛ≈¬ «•Ω√¡Ÿ º≥¡§/«ÿ¡¶"
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_SCSIZE          "√¢ ≈©±‚∏¶ ∫Ø∞Ê«’¥œ¥Ÿ."
+    AFX_IDS_SCMOVE          "√¢ ¿ßƒ°∏¶ ∫Ø∞Ê«’¥œ¥Ÿ."
+    AFX_IDS_SCMINIMIZE      "√¢¿ª æ∆¿Ãƒ‹¿∏∑Œ √‡º“«’¥œ¥Ÿ."
+    AFX_IDS_SCMAXIMIZE      "√¢¿ª ¿¸√º »≠∏È ≈©±‚∑Œ »Æ¥Î«’¥œ¥Ÿ."
+    AFX_IDS_SCNEXTWINDOW    "¥Ÿ¿Ω πÆº≠ √¢¿∏∑Œ ¿¸»Ø«’¥œ¥Ÿ."
+    AFX_IDS_SCPREVWINDOW    "¿Ã¿¸ πÆº≠ √¢¿∏∑Œ ¿¸»Ø«’¥œ¥Ÿ."
+    AFX_IDS_SCCLOSE         "πÆº≠∏¶ ¿˙¿Â«“ ∞Õ¿Œ¡ˆ »Æ¿Œ«œ∞Ì »∞º∫ √¢¿ª ¥›Ω¿¥œ¥Ÿ."
+END
+
+STRINGTABLE
+BEGIN
+    AFX_IDS_SCRESTORE       "√¢¿ª ∫∏≈Î ≈©±‚∑Œ ∫πø¯«’¥œ¥Ÿ."
+    AFX_IDS_SCTASKLIST      "¿€æ˜ ∏Ò∑œ¿ª »∞º∫»≠«’¥œ¥Ÿ."
+END
+
+STRINGTABLE
+BEGIN
+    IDS_STATUS_PANE1        "√¢ 1"
+    IDS_STATUS_PANE2        "√¢ 2"
+END
+
+STRINGTABLE
+BEGIN
+    IDS_EDIT_MENU           "∆Ì¡˝"
+END
+
+STRINGTABLE
+BEGIN
+    ID_ADD_IMAGE            "µŒ ¿ÃπÃ¡ˆ∏¶ ¥ı«‘"
+    ID_SUB_IMAGE            "µŒ ¿ÃπÃ¡ˆ∏¶ ª≠"
+    ID_AND_IMAGE            "µŒ ¿ÃπÃ¡ˆ∏¶ And ø¨ªÍ«‘"
+    ID_OR_IMAGE             "µŒ ¿ÃπÃ¡ˆ∏¶ Or ø¨ªÍ «‘"
+    ID_XOR_IMAGE            "µŒ ¿ÃπÃ¡ˆ∏¶ Xor ø¨ªÍ «‘"
+    ID_RESIZE               "µŒ ¿ÃπÃ¡ˆ∏¶ And ø¨ªÍ«‘"
+END
+
+#endif    // Korean (Korea) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_NEUTRAL
+#pragma code_page(1252)
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\CVInspector.ico"
+#endif    // English resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE 18, 1
+#include "res\CVInspector.rc2"  // Microsoft Visual C++ AI°E?cE?ÆEcE?ÆE°EcEcE?UAC °E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEcIU°E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI?ÆE°EcE°E?cEcE°E?cE?ÆEcEcI °E?cE?ÆEcE?ÆE°EcEcIi°E?cE?ÆEcE?ÆE°EcEcIi?ÆE°EcE°E?cEcE°E?cE?ÆEcEc?ÆE°EcE°E?cEc°E?cE?ÆEc?ÆE°Ec?ÆE?u°E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI°E?cE?ÆEcE?ÆE°EcEcE?°E?cE?ÆEcE?ÆE°EcEcE?ÆE°EcE°E?cEcEc°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?u?ÆE°EcE°E?cEcE°E?cE?ÆEcEc?ÆE°EcE°E?cEc°E?cE?ÆEc?ÆE°Ec?ÆE?I °E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE??ÆE°EcE°E?cEcE°E?cE?ÆEcEciAyCN °E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI°E?cE?ÆEcE?ÆE°EcEcEc°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?uO°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?o°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øIAO°E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEcII°E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEcIU.
+#include "l.KOR\afxres.rc"      // C?ÆE°EcE°E?cEcE°E?cE?ÆEcEcIA°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE??ÆE°EcE°E?cEc°E?cE?ÆEc?ÆE°Ec?ÆE??ÆE°EcE°E?cEcI ?ÆE°EcE°E?cEcE°E?cE?ÆEcEc?ÆE°EcE°E?cEc°E?cE?ÆEc?ÆE°Ec?ÆE?u°E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?u°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI °E?cE?ÆEcE?ÆE°EcEcE?a°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?uO
+#if !defined(_AFXDLL)
+#include "l.KOR\afxprint.rc"        // AI°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?ua ?ÆE°EcE°E?cEc°E?cE?ÆEc?ÆE°Ec?ÆE?IoI°E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI°E?cE?ÆEcE?ÆE°EcEcEc °E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI°E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI?ÆE°EcE°E?cEcE°E?cE?ÆEcEc?ÆE°EcE°E?cEc°E?cE?ÆEc?ÆE°Ec?ÆE?ua °E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI°E?cE?ÆEcE?ÆE°EcEcEc°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?uO°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?o°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI
+#include "l.KOR\afxribbon.rc"        // MFC °E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI°E?cE?ÆEcE?ÆE°EcEcEc°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI?ÆE°EcE°E?cEcE°E?cE?ÆEcEci ?ÆE°EcE°E?cEc°E?cE?ÆEc?ÆE°Ec?ÆE?Io?ÆE°EcE°E?cEcE°E?cE?ÆEcEc?ÆE°EcE°E?cEcE? AA°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE??ÆE°EcE°E?cEcE°E?cE?ÆEcEc°E?cE?ÆEcE?ÆE°EcEcEc?ÆE°EcE°E?cEcE°E?cE?ÆEcEc?ÆE°EcE°E?cEcE°E?cE?ÆEcE°E?cE?ÆEcIN °E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI?ÆE°EcE°E?cEcE°E?cE?ÆEcEc?ÆE°EcE°E?cEcE°E?cE?ÆEcE°E?cE?ÆEcI°E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEcIe °E?cE?ÆEcE?ÆE°EcEcE°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI°E?cE?ÆEcE?ÆE°EcEcEc°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?uO°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?o°E?cE?ÆEcE?ÆE°EcEc?ÆE°EcE°E?cEc°E?cE?ÆEc°E?cE?°E?cE?ÆEcE?ÆE°EcEc?ÆE°Ec°E?c?Æ??I°E?cE?ÆEc°E?c?Æ°øI
+#endif
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
